@@ -7,20 +7,15 @@
 
 - 📫To reach me **gurubalajibtechit@gmail.com**
 
-
-- public class Developer {
-    public static void main(String[] args) {
-
-        String Name ="Guru" ;
-
-        Developer dev = new Developer();
-
-        while (dev.coding()) {
+public class Developer {
+   public static void main(String[] args) {
+    String Name ="Guru";
+    Developer dev = new Developer();
+    while (dev.coding()) {
             dev.listenToMusic();
             dev.OpenStackOverflow();
             dev.Drinkcoffee();
         }
     }
 }
-
 
