@@ -7,15 +7,4 @@
 
 - 📫To reach me **gurubalajibtechit@gmail.com**
 
-public class Developer {
-   public static void main(String[] args) {
-    String Name ="Guru";
-    Developer dev = new Developer();
-    while (dev.coding()) {
-            dev.listenToMusic();
-            dev.OpenStackOverflow();
-            dev.Drinkcoffee();
-        }
-    }
-}
-
+<img width="2000" height="500" alt="Image" src="https://github.com/user-attachments/assets/d3c00867-8783-4688-9469-e1f708e911d6" />
