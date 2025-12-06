@@ -7,7 +7,8 @@
 
 - 📫To reach me **gurubalajibtechit@gmail.com**
 
-public class Developer {
+
+- public class Developer {
     public static void main(String[] args) {
 
         String Name ="Guru" ;
