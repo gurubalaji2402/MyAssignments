@@ -27,3 +27,19 @@ public class EmployeeDetails {
 	}
 
 }
+
+OUTPUT :
+-------Employee Details--------
+Employee Name = John Doe
+Employee Age = 30
+Monthy Salary = 55000.75
+Gender = M
+Does Employee accept the terms = true
+Rating = 4.5 
+MobileNumber = 9876543210
+PinCode = 56001
+LuckyNumber = 7
+------------------------------
+
+
+
