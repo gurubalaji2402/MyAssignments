@@ -24,7 +24,6 @@ public class IsPrime {
 				if(n%i==0) {
 			//if it divisible and rem is 0 its not prime
 			//flag it as false
-		    //we find even one factor, the number is already not prime so break the loop
 					flag=false;
 					break;
 				}
