@@ -17,8 +17,10 @@ public class IsPrime {
 			flag=false;
 		}
 		else {
-			//here we iterating from 2 to n number to find prime
-			for (int i = 2; i < n/2; i++) {
+			//here we iterating from 2 to n-1 number to find prime
+			//we can also put <=n/2
+			//if we put <=n/2 here it wont check all factors example take 4 --> 4/2 -->2 so it wont check all factors
+			for (int i = 2; i <=n-1; i++) {
 				if(n%i==0) {
 			//if it divisible and rem is 0 its not prime
 			//flag it as false
