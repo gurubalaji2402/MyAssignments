@@ -36,6 +36,7 @@ public class LeaftapLogin {
 		driver.findElement(By.className("inputBox")).sendKeys("guru");
 		driver.findElement(By.name("description")).sendKeys("Selenium Automation Tester");
 		driver.findElement(By.name("numberEmployees")).sendKeys("10");
+		driver.findElement(By.className("smallSubmit")).click();
 		System.out.println(driver.getTitle());
 		driver.quit();		
 		
@@ -44,4 +45,3 @@ public class LeaftapLogin {
 }
 
 }
-
