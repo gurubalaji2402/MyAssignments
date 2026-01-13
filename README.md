@@ -1,7 +1,5 @@
 <h1  align="center"  > My Assignments </h1>
 
-<p align="left"> 
-   <img src="https://komarev.com/ghpvc/?username=gurubalaji2402&label=Profile%20views&color=0e75b6&style=flat-square" alt="gurubalaji2402" /> 
 
 - 🌱 I’m currently learning **java and selenium in testLeaf**
   
@@ -16,6 +14,5 @@
                   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
-- 📫To reach me **gurubalajibtechit@gmail.com**
 
 <img width="2000" height="500" alt="Image" src="https://github.com/user-attachments/assets/d3c00867-8783-4688-9469-e1f708e911d6" />
